@@ -1,0 +1,22 @@
+.catalog-item {
+    border: 1px solid #ccc;
+    padding: 10px;
+    margin: 10px;
+    width: 200px;
+    float: left;
+}
+
+.catalog-item img {
+    width: 100%;
+    height: auto;
+}
+
+.catalog-item h3 {
+    text-align: center;
+    margin: 5px 0;
+}
+
+.catalog-item p {
+    text-align: center;
+    margin: 5px 0;
+}
